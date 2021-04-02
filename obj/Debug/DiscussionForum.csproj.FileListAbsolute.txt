@@ -1,0 +1,366 @@
+C:\Users\shrey\source\repos\DiscussionForum\bin\DiscussionForum.dll.config
+C:\Users\shrey\source\repos\DiscussionForum\bin\DiscussionForum.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\DiscussionForum.pdb
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csc.exe
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csc.exe.config
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csc.rsp
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csi.exe
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csi.exe.config
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\csi.rsp
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\vbc.exe
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\vbc.exe.config
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\vbc.rsp
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shrey\source\repos\DiscussionForum\bin\Antlr3.Runtime.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\EntityFramework.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\EntityFramework.SqlServer.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Newtonsoft.Json.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Owin.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Net.Http.Formatting.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Helpers.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.Owin.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.WebHost.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Mvc.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Optimization.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Razor.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\WebGrease.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Newtonsoft.Json.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Net.Http.Formatting.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Helpers.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.WebHost.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Mvc.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Optimization.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Razor.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Antlr3.Runtime.pdb
+C:\Users\shrey\source\repos\DiscussionForum\bin\EntityFramework.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\EntityFramework.SqlServer.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Web.Http.Owin.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shrey\source\repos\DiscussionForum\obj\Debug\DiscussionForum.csproj.CoreCompileInputs.cache
+C:\Users\shrey\source\repos\DiscussionForum\obj\Debug\DiscussionForum.csproj.CopyComplete
+C:\Users\shrey\source\repos\DiscussionForum\obj\Debug\DiscussionForum.dll
+C:\Users\shrey\source\repos\DiscussionForum\obj\Debug\DiscussionForum.pdb
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Buffers.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Memory.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Autofac.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\CKFinder.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\ImageProcessor.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Pri.LongPath.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Net.Http.Extensions.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Net.Http.Primitives.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.ValueTuple.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Autofac.pdb
+C:\Users\shrey\source\repos\DiscussionForum\bin\Autofac.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\CKFinder.pdb
+C:\Users\shrey\source\repos\DiscussionForum\bin\ImageProcessor.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.ValueTuple.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Buffers.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Memory.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Numerics.Vectors.dll
+C:\Users\shrey\source\repos\DiscussionForum\bin\Pri.LongPath.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Buffers.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Memory.xml
+C:\Users\shrey\source\repos\DiscussionForum\bin\System.Numerics.Vectors.xml
+C:\Users\shrey\source\repos\DiscussionForum\obj\Debug\DiscussionForum.csprojAssemblyReference.cache
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\obj\Debug\DiscussionForum.csproj.CoreCompileInputs.cache
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\obj\Debug\DiscussionForum.csprojAssemblyReference.cache
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\DiscussionForum.dll.config
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\DiscussionForum.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\DiscussionForum.pdb
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csc.exe
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csc.exe.config
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csc.rsp
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csi.exe
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csi.exe.config
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\csi.rsp
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Buffers.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Memory.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\vbc.exe
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\vbc.exe.config
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\vbc.rsp
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Antlr3.Runtime.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Autofac.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\CKFinder.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\EntityFramework.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\EntityFramework.SqlServer.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\ImageProcessor.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Newtonsoft.Json.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Owin.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Pri.LongPath.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Buffers.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Memory.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Net.Http.Extensions.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Net.Http.Formatting.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Net.Http.Primitives.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Numerics.Vectors.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.ValueTuple.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Helpers.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.Owin.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.WebHost.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Mvc.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Optimization.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Razor.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\WebGrease.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Autofac.pdb
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Autofac.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\CKFinder.pdb
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\EntityFramework.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\EntityFramework.SqlServer.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\ImageProcessor.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Newtonsoft.Json.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Pri.LongPath.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Buffers.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Memory.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Net.Http.Formatting.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Numerics.Vectors.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.ValueTuple.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Helpers.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.WebHost.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Mvc.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Optimization.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Razor.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Antlr3.Runtime.pdb
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\bin\System.Web.Http.Owin.xml
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\obj\Debug\DiscussionForum.csproj.CopyComplete
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\obj\Debug\DiscussionForum.dll
+C:\Users\Bhuva Sahil\Downloads\DiscussionForum\obj\Debug\DiscussionForum.pdb
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\DiscussionForum.dll.config
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\DiscussionForum.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\DiscussionForum.pdb
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csc.exe
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csc.rsp
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csi.exe
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\csi.rsp
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Buffers.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Memory.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\vbc.exe
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Autofac.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\CKFinder.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\EntityFramework.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\ImageProcessor.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Owin.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Pri.LongPath.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Buffers.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Memory.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Net.Http.Extensions.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Net.Http.Primitives.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Numerics.Vectors.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.ValueTuple.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Razor.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\WebGrease.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Autofac.pdb
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Autofac.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\CKFinder.pdb
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\EntityFramework.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\ImageProcessor.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Pri.LongPath.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Buffers.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Memory.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Numerics.Vectors.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.ValueTuple.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Razor.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\obj\Debug\DiscussionForum.csprojAssemblyReference.cache
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\obj\Debug\DiscussionForum.csproj.CoreCompileInputs.cache
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\obj\Debug\DiscussionForum.csproj.CopyComplete
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\obj\Debug\DiscussionForum.dll
+C:\Users\Bhuva Sahil\source\repos\DiscussionForum-WebAPI\obj\Debug\DiscussionForum.pdb
