@@ -1,0 +1,44 @@
+﻿@model DiscussionForum.Models.RegisterBindingModel
+
+@{
+    ViewBag.Title = "Register | Discussion Forum";
+
+}
+
+<div class="text-left">
+    <h1 class="display-3">Register</h1>
+    <hr/>
+</div>
+
+@using (Html.BeginForm()) {
+
+    @Html.AntiForgeryToken()    
+
+    <div class="row">
+        <div class="col-md-12">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.Username, htmlAttributes: new { @class = "form-label" })
+                @Html.EditorFor(model => model.Username, new { htmlAttributes = new { placehoder="user@123", @class = "form-control form-control-lg" } })
+                @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label" })
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { placehoder = "user@mail.com", @class = "form-control form-control-lg" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "form-label" })
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { placehoder = "USer@#123", @class = "form-control form-control-lg" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "form-label" })
+                @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { placehoder = "USer@#123", @class = "form-control form-control-lg" } })
+                @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+            </div>
+            <button type="submit" class="mb-3 btn btn-lg btn-primary">Register</button>
+        </div>
+    </div>
+}
+

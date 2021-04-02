@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DiscussionForum.Post>
+
+@{
+    ViewBag.Title = "Posts | Discussion Forum";
+    int count = 0;
+}
+
+<div class="text-left">
+    <h1 class="display-3">Your posts</h1>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.ActionLink("View", "View", "Post", new { id = item.Id }, null) |
+                @Html.ActionLink("Edit", "Edit", "Post", new { id = item.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "Post", new { id = item.Id }, htmlAttributes: new { @class = "text-danger"})
+            </td>
+        </tr>
+    }
+    @if(count == 0)
+    {
+        <tr>
+            <td>
+                No post found. @Html.ActionLink("Click here ", "Create", "Post", null, null) to create post.
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+    }
+
+</table>

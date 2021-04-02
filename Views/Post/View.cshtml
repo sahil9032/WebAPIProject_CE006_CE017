@@ -1,0 +1,132 @@
+﻿@model DiscussionForum.Models.PostViewModel
+
+@{
+    ViewBag.Title = "View | Discussion Forum";
+}
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+@helper printComment(ICollection<Comment> comments, Nullable<int> replyTo, int indent)
+{
+    var data = comments.Where(e => e.ReplyTo == replyTo).Select(comment => comment);
+    foreach (var comment in data)
+    {
+        var c = "comment" + @comment.Id;
+        <div class="row">
+            @for (int i = 0; i < indent; i++)
+            {
+                <div class="col-md-auto">
+                    &emsp;
+                </div>
+            }
+            <div class="card col">
+                <div class="card-body mt-3">
+                    <h5 class="card-title">@comment.CreatedBy</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@comment.CreatedTime</h6>
+                    <p class="card-text">@Html.Raw(comment.Comment1)</p>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#@c">
+                            Reply
+                        </button>
+                        <div class="modal fade" id="@c" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-xl">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">Reply to @comment.CreatedBy</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        @using (Html.BeginForm("Create", "Comment", FormMethod.Post))
+                                        {
+                                            var texta = "textarea" + @comment.Id;
+                                            @Html.AntiForgeryToken();
+                                            Model.postComment.ReplyTo = comment.Id;
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                                    @Html.HiddenFor(model => model.post.Id)
+                                                    @Html.HiddenFor(model => model.postComment.ReplyTo)
+                                                    <div class="form-group mb-3">
+                                                        @Html.TextAreaFor(model => model.postComment.Comment1, htmlAttributes: new { @id = texta, @placehoder = "USer@#123", @class = "form-control form-control-lg" })
+                                                        @Html.ValidationMessageFor(model => model.postComment.Comment1, "", new { @class = "text-danger" })
+                                                        <script>
+                                                            CKEDITOR.replace(@texta);
+                                                        </script>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-lg btn-secondary" data-dismiss="modal">Close</button>
+                                                        <button type="submit" class="mb-3 btn btn-lg btn-primary">Reply</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+        </div>
+        @printComment(comments, comment.Id, indent + 1);
+    }
+}
+
+<div class="jumbotron">
+    <div class="text-left">
+        <h1>@Model.post.Title </h1>
+        <h5 class="card-title"> By @Model.post.CreatedBy</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Model.post.CreatedTime</h6>
+        <hr />
+    </div>
+    <div class="container">
+        @Html.Raw(@Model.post.Description)
+    </div>
+</div>
+<hr />
+
+@using (Html.BeginForm("Create", "Comment", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    Model.postComment.ReplyTo = null;
+    <div class="row">
+        <div class="col-md-12">
+            @Html.HiddenFor(model => model.post.Id)
+            <div class="form-group mb-3">
+                <label for="Description" class="col-form-label">Enter your comment below</label>
+                @Html.TextAreaFor(model => model.postComment.Comment1, htmlAttributes: new { @id = "Description", @placehoder = "USer@#123", @class = "form-control form-control-lg" })
+                @Html.ValidationMessageFor(model => model.postComment.Comment1, "", new { @class = "text-danger" })
+                <script>
+                    CKEDITOR.replace("Description");
+                </script>
+            </div>
+            <button type="submit" class="mb-3 btn btn-lg btn-primary">Post</button>
+        </div>
+    </div>
+}
+<hr/>
+
+<div class="jumbotron">
+    <div class="text-left">
+        <h1>Comments </h1>
+        <hr />
+    </div>
+    <div class="container">
+        @printComment(@Model.post.Comments, null, 0)
+
+        @*        @foreach (var comment in Model.post.Comments)
+            {
+            <div class="container">
+                <div class="card" style="margin:20px;">
+                    <div class="card-body mt-3">
+                        <h5 class="card-title">@comment.CreatedBy</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@comment.CreatedTime</h6>
+                        <p class="card-text">@Html.Raw(comment.Comment1)</p>
+                        <a href="#" class="card-link">Reply</a>
+                    </div>
+                </div>
+            </div>
+            }*@
+    </div>
+</div>

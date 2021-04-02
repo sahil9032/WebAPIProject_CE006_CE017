@@ -1,0 +1,55 @@
+﻿@model IEnumerable<DiscussionForum.Post>
+@{
+    int count = 0;
+}
+<div class="jumbotron">
+    <h1>Discussion Forum</h1>
+
+    @if (Session["token"] == null)
+    {
+        <p><a href="/users/login" class="btn btn-primary btn-lg">Login </a>&nbsp;<a href="/users/register" class="btn btn-primary btn-lg">Register </a></p>
+    }
+    else
+    {
+        <p class="lead">
+            Welcome @Session["username"]
+        </p>
+        <p><a href="/post/create" class="btn btn-primary btn-lg">Create post </a>&nbsp; <a href="/post/index" class="btn btn-primary btn-lg">My posts </a></p>
+    }
+
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.ActionLink("View", "View", "Post", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+    @if (count == 0)
+    {
+        <tr>
+            <td>
+                No post found. @Html.ActionLink("Click here ", "Create", "Post", null, null) to create post.
+            </td>
+            <td>
+            </td>
+        </tr>
+    }
+
+</table>
